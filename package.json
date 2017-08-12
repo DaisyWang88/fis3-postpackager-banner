@@ -1,0 +1,21 @@
+{
+  "name": "fis3-postpackager-banner",
+  "description": "fis3 banner plugin",
+  "version": "1.0.0",
+  "author": "waimai bfe settlement daisy",
+  "homepage": "http://fis.baidu.com/",
+  "keywords": [
+    "fis3",
+    "banner"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DaisyWang88/fis3-postpackager-banner.git"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "script":{
+  }
+}
